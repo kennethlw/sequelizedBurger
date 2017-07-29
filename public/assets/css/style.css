@@ -1,0 +1,37 @@
+* {
+	text-align: center;
+}
+
+body{
+	background-color: #FFE082  ;
+	font-family: Tahoma,Arial, "Helvetica Neue",Helvetica,,sans-serif;
+	font-size: 14px;
+	line-height: 1.42857143;
+	color: #333;
+}
+
+.jumbotron {
+	background-color: #FF5722;
+	color: white;
+}
+
+#button {
+	background-color: royalblue;
+	color:white;
+}
+
+#burgerName {
+	font-family: Tahoma, Arial;
+	font-weight:bolder;
+	font-size: 14px;
+}
+
+#devour {
+	background-color:#FF5722;
+	color:white;
+}
+
+.panel-paneldefault {
+	color:#FFE082;
+	background-color: #FFE082;
+}
